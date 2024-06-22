@@ -14,16 +14,23 @@ Examination Incident Description: During the term examination, Samantha obstruct
 Incident Details
 On [Date and Time], Samantha Collen reported to the Dean that she received an abusive and threatening email at her official email address. The email contained derogatory language and threats to her personal safety.
 
+
+
 Task 1: Network Scanning Report
 Network Scan Results:
 
 [Detailed results from the network scan of the 192.168.1.0/24 network]
+
+
 Task 2: CVE Score Identification
 Identified CVE Score for Vulnerability XYZ:
-
 CVE-2023-12345: [CVE Score]
+
+
 Task 3: MiTM Attack Detection and Incident Report
 MiTM attack detection results: [Details pending or as applicable]
+
+
 Task 4: Email Forensics Analysis
 Sender's IP Address:
 
